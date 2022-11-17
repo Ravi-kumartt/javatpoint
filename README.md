@@ -1,2 +1,2 @@
 # javatpoint
-java tpoint tutorials
+java tpoint tutorials telugu skill hub
